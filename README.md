@@ -1,1 +1,1 @@
-# python
+# Python project for GUI
